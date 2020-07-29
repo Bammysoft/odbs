@@ -141,7 +141,7 @@
 
                             <div class="form-group">
                               <h3>Othername</h3>
-                              <input class="form-control" type="text" name="othername" value="<?php echo $edit_staffs['othername']; ?>" placeholder="Othername">
+                              <input class="form-control" type="text" name="othername" value="<?php echo $edit_staffs['othername']; ?>" placeholder="OtherName">
                             </div>
 
                             <div class="form-group">
